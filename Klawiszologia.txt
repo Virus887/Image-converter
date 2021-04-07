@@ -1,0 +1,14 @@
+Klawiszologia:
+Aby przekonwertować obraz, a następnie odseparować poszczególne kanały należy:
+1. Wcisnąć przycisk "Load image" i wybrać obraz.
+2. Wybrać rodzaj konwersji
+3. Jeśli wybraliśmy konwersję do L*a*b*, możliwe jest dobranie odpowiednich współczynników
+   z okienka "Lab Settings".
+4. Wcisnąć przycisk Separate.
+w tym momencie po prawej stronie ekranu powinny pojawić się 3 obrazy przedstawiające odseparowane 
+od siebie kanały.
+
+Po wciśnięciu przycisku "Save outputs" do wskazanego przez nas miejsca zapisane zostaną 3 obrazy:
+- <nazwa_podana_przez_użytkownika>_<nazwa_kanału1>
+- <nazwa_podana_przez_użytkownika>_<nazwa_kanału2>
+- <nazwa_podana_przez_użytkownika>_<nazwa_kanału3>
